@@ -41,10 +41,10 @@ Here's a list of things not in order:
  * Okay
 
 Here are some tasks to complete before next class:
-  - [x] Make this index page for my GitHub Pages site
-  - [ ] Invent some novel method of solving a problem
-  - [ ] Charge people lots of money to use your method
-  - [ ] Make money and retire
+- [x] Make this index page for my GitHub Pages site
+- [ ] Invent some novel method of solving a problem
+- [ ] Charge people lots of money to use your method
+- [ ] Make money and retire
 
 Made it this far? Enjoy this golf ball.
 
